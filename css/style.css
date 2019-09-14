@@ -1,0 +1,467 @@
+body{
+    background: rgb(245, 248, 250) !important;
+}
+
+input[type=search]{
+    border: none;
+    border: 1px solid #ff7a59;
+}
+
+.bg-light{
+    padding: 20px 120px 20px 120px !important;
+}
+
+.login{
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid red;
+    border-radius: 3px;
+    background: white;
+    color: #ff7a59;
+    transition: background .5s;
+}
+
+.login:hover{
+    background: #ff7a59;
+    color: white;
+}
+
+button.login{
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.get-free{
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid red;
+    border-radius: 3px;
+    background: white;
+    color: #ff7a59;
+    transition: background .5s;
+}
+.get-free:hover{
+    background: #ff7a59;
+    color: white;
+}
+
+li.nav-item.dropdown{
+    list-style-type: none;
+    color: #33475b;
+}
+
+a{
+    color: #33475b !important;
+}
+
+.nav-link.language{
+    padding: 0 !important;
+}
+
+.header{
+    margin-top: 25px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+#software{
+    justify-content: space-between;
+
+}
+div.about{
+    width: 700px;
+}
+
+div.about p{
+    font-weight: 400;
+    padding-top: 0;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+div.top{
+    text-align: center
+}
+
+p.bold, p span.bold{
+    font-weight: bold !important;
+}
+
+.new{
+    background: #00bda5;
+    color: white;
+    padding: 3px;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+span.place{
+    font-weight: bold !important;
+    margin-right: 5px;
+    margin-right: 20px;
+}
+
+.marketplace{
+    padding: 40px;
+    height: 0;
+  margin: .5rem 0;
+  overflow: hidden;
+  border-top: 1px solid #e9ecef
+}
+
+.dropdown-menu.show{
+    transform: translate3d(-600px, 24px, 0px)
+}
+
+section.latest{
+    background: rgb(250, 96, 122);
+    padding-top: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.button{
+    border: 1px solid #fff;
+    background: #fff;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    transition: .5s ;
+}
+
+.button:hover{
+    opacity: 0.8;
+}
+
+section.landing{
+    height: 650px;
+    background: url("../images/blond-hair-chairs-coffee-2041629.jpg") fixed;
+    background-size: cover;
+    color: white;
+}
+
+.text{
+    padding-top: 150px;
+}
+
+.text button{
+    padding: 10px;
+    border: none;
+    background: #ff7a59;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ff7a59;
+    transition: background .5s
+
+}
+.text button:hover{
+    background: white;
+    color: #ff7a59;
+}
+
+.mid-section{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    background:rgb(245, 248, 250);
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 30px !important;
+    font-weight: bold !important;
+}
+
+.mid-section img{
+    width: 300px;
+}
+
+.posts{
+    font-weight: bold;
+}
+
+.popular img{
+    width: 300px;
+}
+
+.learn-btn button{
+    border: none;
+    background: #ff7a59;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 25px;
+    transition: .5s opacity ease-in-out;
+}
+
+.learn-btn button:hover{
+    opacity: 0.8
+}
+
+section.popular{
+    background: rgb(245, 248, 250);
+
+}
+
+#content{
+ background: white;
+ transition: all 0.3s ease-in-out 0s;
+ margin-bottom: 100px;
+ text-align: center
+
+}
+
+.crm p.organize{
+    text-align: left;
+}
+div.crm{
+    padding: 50px 30px 30px 30px;
+}
+
+#content:hover{
+    box-shadow: #e9ecef 0px 0px 11px;
+    background: rgb(255, 255, 255);
+    transform: scale(1.01);
+}
+
+.icon i{
+    color: #ff7a59;
+    margin-right: 5px;
+}
+
+div.sales{
+    padding: 20px 30px;
+    background: white;
+    transition: all 0.3s ease-in-out 0s;
+
+}
+
+div.sales:hover{
+    box-shadow: #e9ecef 0px 0px 11px;
+    background: rgb(255, 255, 255);
+    transform: scale(1.01);
+}
+
+.sales img{
+    width: 200px;
+    text-align: center;
+
+}
+
+section.marketing{
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+section.marketing p{
+    text-align: left;
+}
+
+section.marketing button{
+    color: white;
+    background: #ff7a59;
+    border: none;
+    padding: 7px 15px ;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s opacity 
+}
+
+section.marketing button:hover{
+    opacity: 0.8
+}
+
+img.hub{
+    margin-top: 40px;
+}
+
+img.service{
+    width: 180px;
+}
+
+section.support{
+    text-align: center;
+    background-image: linear-gradient(45deg, rgb(0, 164, 189), rgb(0, 189, 165));
+    color: white;
+}
+
+p.thrive{
+    font-weight: bold;
+    font-size: 2em;
+    padding-top: 120px;
+}
+
+.community{
+    padding-bottom: 80px;
+}
+
+.numbers{
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+div.left{
+    border-left: 1px solid #fff;
+    padding: 40px 0; 
+}
+
+#upper{
+    border-top: 1px solid #fff;
+    padding: 40px 0;
+    margin-bottom: 150px;
+}
+
+p.groups{
+    margin: 0 !important;
+}
+
+div#lines{
+    padding: 0 !important
+}
+
+.hands{
+    padding: 40px 0;
+}
+
+.partners div img{
+    width: 160px;
+    padding: 0 20px 40px 20px
+}
+
+.customer{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+    background: #fff
+}
+
+.business{
+    text-align: left;
+}
+
+.figure{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.business p span{
+    font-weight: bold;
+}
+
+.tools{
+    background: #fff;
+    padding-bottom: 120px;
+}
+
+.grow{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.free{
+    font-size: 13px;
+}
+
+.start p button{
+    background: #ff7a59;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    font-weight: bold;
+    transition: .5s ease-in;
+    outline: none;
+}
+
+.start p button:hover{
+    opacity: 0.8;
+}
+
+.photo img{
+    width: 340px;
+}
+
+div.photo{
+    text-align: right;
+}
+
+div.start{
+    padding-top: 25px;
+}
+
+footer{
+    background: rgb(51, 71, 91);
+    color: rgb(203, 214, 226);
+}
+
+#end{
+    padding-top: 100px;
+}
+
+.subject{
+    font-weight: bold;
+}
+
+a.link{
+    color: rgb(203, 214, 226) !important;
+    text-decoration: none !important;
+    transition: .3s
+}
+
+a.link:hover{
+    color:rgb(0, 145, 174)!important;
+}
+
+.diverse{
+    color: rgb(203, 214, 226) !important;
+    padding-left: 0 !important;
+    transition: .3s
+}
+
+footer i:hover{
+    color: rgb(0, 189, 165);
+    cursor: pointer
+}
+
+footer button{
+    border: none;
+    font-size: 14px;
+    padding: 7px;
+    border-radius: 5px;
+    background: white;
+    transition: .3s;
+}
+
+footer button:hover{
+    opacity: 0.8;
+}
+
+.english{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+ 
+.privacy{
+    display: flex;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 574px){
+    div.left{
+        border: none;
+    }
+    div#upper.left, div#upper{
+        border: none
+    }
+    div.photo{
+        text-align:center
+    }
+    div#software.row{
+        display: none
+    }
+}
